@@ -7,18 +7,18 @@ Detailed explanations to the coding interview questions in CTCI. The solutions a
 ## Arrays and Strings
 |Problem Number | Problem Name | Status|
 |--- | --- | --- |
-| 1.1 | Is Unique | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.1-is-unique.py) |
-| 1.2 | Check Permutation | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.2-is-permutation.py) |
-| 1.3 | URLify | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.3-urlify.py) |
-| 1.4 | Palindrome Permutation |  [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.4-palindrome-permutation) |
-| 1.5 | One Away | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.5-one-away.py) |
-| 1.6 | String Compression | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.6-string-compression) |
-| 1.7 | Rotate Matrix | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.7-rotate-matrix.py) |
-| 1.8 | Zero Matrix | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.8-zero-matrix.py) |
-| 1.9 | String Rotation | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.9-string-rotation.py) |
+
+| 1.1 | Is Unique | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.1_is_unique.py) |
+| 1.2 | Check Permutation | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.2_is_permutation.py) |
+| 1.3 | URLify | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.3_urlify.py) |
+| 1.4 | Palindrome Permutation |  [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.4_palindrome_permutation.py) |
+| 1.5 | One Away | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.5_one_away.py) |
+| 1.6 | String Compression | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.6_string_compression.py) |
+| 1.7 | Rotate Matrix | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.7_rotate_matrix.py) |
+| 1.8 | Zero Matrix | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.8_zero_matrix.py) |
+| 1.9 | String Rotation | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.9_string_rotation.py) |
 
 ## Linked Lists
-
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
 | 2.1 | Remove Dups | [Read Solution ✅]        (cracking-the-coding-interview/linked-lists/remove-duplicates) |
