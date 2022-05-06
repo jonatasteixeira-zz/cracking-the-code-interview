@@ -40,7 +40,7 @@ def count_differences(string1, string2):
     return (diff <= 1)
 
 
-def test_count_differences():
+def test():
     print(count_differences("pale", "ple") == True)
     print(count_differences("pales", "pale") == True)
     print(count_differences("pale", "bale") == True)
@@ -52,4 +52,5 @@ def test_count_differences():
     print(count_differences("aaaaaaaa", "a") == False)
     print(count_differences(111, 111) == None)
     print(count_differences(123, 321) == None)
-test_count_differences()
+    
+test()

@@ -24,10 +24,11 @@ def zero_matrix(matrix, n, m):
 #    print_matrix(matrix, n, m)
     return matrix
 
-def test_zero_matrix():
+def test():
     res = zero_matrix([[1,0],[3,4]], 2, 2)
     print (res == [[0, 0], [3, 0]])
 
     res = zero_matrix([[1,2,3],[4,0,6],[7,8,9]], 3, 3)
     print (res == [[1, 0, 3], [0, 0, 0], [7, 0, 9]])
-test_zero_matrix()
+    
+test()

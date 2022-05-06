@@ -26,7 +26,7 @@ def is_palindrome_permutation(test_string): # Considering ASCII
 #    print (char_set)
     return (odds <= 1)
 
-def test_is_palindrome_permutation():
+def test():
     print(is_palindrome_permutation("abcDCBA") == True)
     print(is_palindrome_permutation("Tact Coa") == True)
     print(is_palindrome_permutation("atco cta") == True) 
@@ -38,4 +38,4 @@ def test_is_palindrome_permutation():
     print(is_palindrome_permutation(111) == None)
     print(is_palindrome_permutation(123) == None)
 
-test_is_palindrome_permutation()
+test()

@@ -17,7 +17,7 @@ def isSubstring(string1, string2):
             return True
     return False
 
-def test_isSubstring():
+def test():
     print (isSubstring("the firt test of string", "test") == True)
     print (isSubstring("the firt test of string", "string") == True)
     print (isSubstring("the firt test of string", "of") == True)
@@ -28,4 +28,4 @@ def test_isSubstring():
     print (isSubstring("test", "tes") == True)
     print (isSubstring(123, 1) == None)
 
-test_isSubstring()
+test()

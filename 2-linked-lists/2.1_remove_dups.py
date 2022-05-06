@@ -61,7 +61,7 @@ class Node:
         print(pivot.data)
 
 
-def test():
+def test_remove_duplicates():
     l = Node(1)
     l.append(2)
     l.append(3)
@@ -71,4 +71,4 @@ def test():
     l.remove_duplicates()
     l.print_all()
 
-test()
+test_remove_duplicates()

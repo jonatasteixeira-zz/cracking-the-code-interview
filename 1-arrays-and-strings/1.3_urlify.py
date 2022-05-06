@@ -26,7 +26,7 @@ def urlify(string):
    # print("\"" + restring + "\"")
     return restring
 
-def test_urlify():
+def test():
     print(urlify("abc") == "abc")
     print(urlify("aa      bb      cc") == "aa%20bb%20cc") 
     print(urlify("abc         ") == "abc")
@@ -36,5 +36,5 @@ def test_urlify():
     print(urlify(111) == None)
     print(urlify(123) == None)
 
-test_urlify()
+test()
 

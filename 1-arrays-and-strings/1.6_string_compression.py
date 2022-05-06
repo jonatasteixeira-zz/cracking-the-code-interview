@@ -40,4 +40,4 @@ def test_string_compreesion():
     print (string_compreesion(False) == None)
     print (string_compreesion(True) == None)
 
-test_string_compreesion()
+test()

@@ -42,7 +42,7 @@ class Node:
             pivot = pivot.next
         return string
 
-def test_remove():
+def test():
     n = Node(1)
     n.append(2)
     n.append(3)
@@ -61,4 +61,4 @@ def test_remove():
     n.remove(3)
     print(n.to_s() == "None")
 
-test_remove()
+test()

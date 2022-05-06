@@ -27,7 +27,7 @@ def is_permutation(string1, string2):
 
     return True
 
-def test_is_permutation():
+def test():
     print(is_permutation("abc", "cba") == True)
     print(is_permutation("aabbcc", "abc") == False)
     print(is_permutation("abcdefghijklmnopqrstuvxz", "zxvutsrqponmlkjihgfedcba") == True)
@@ -37,4 +37,4 @@ def test_is_permutation():
     print(is_permutation(111, 111) == None)
     print(is_permutation(123, 123) == None)
 
-test_is_permutation()
+test()

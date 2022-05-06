@@ -40,11 +40,11 @@ class Node:
         return self.index_of()
 
 
-def test_get_size():
+def test():
     n = Node(1)
     n.append(2)
     print(n.get_size() == 2)
     n.append(3)
     print(n.get_size() == 3)
 
-test_get_size()
+test()

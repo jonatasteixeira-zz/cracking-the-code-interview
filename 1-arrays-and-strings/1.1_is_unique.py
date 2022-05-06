@@ -26,7 +26,7 @@ def is_unique2(test_string):
         char_set[ord(char)] = True
     return True
 
-def test_is_unique():
+def test():
     print(is_unique1("abcdefghijklmnopqrstuvxz") == True)
     print(is_unique1("abcdefghijklmnopqrstuvxza") == False)
     print(is_unique1("abcdefghijklmnopqrstuvxzz") == False)
@@ -36,4 +36,4 @@ def test_is_unique():
     print(is_unique1(111) == None)
     print(is_unique1(123) == None)
 
-test_is_unique()
+test()

@@ -75,7 +75,7 @@ def rotate_matrix(matrix, n):
     return matrix
 
 
-def test():
+def test_rotate_matrix():
     res = rotate_matrix([[1,2],[3,4]], 2)
     print (res == [[3, 1, ], [4, 2]])
 
@@ -88,4 +88,4 @@ def test():
     res = rotate_matrix([['a','b','c','d','e'],['f','g','h','i','j'],['k','l','m','n','o'],['p','q','r','s','t'],['u','v','w','x','y']], 5)
     print (res == [['u', 'p', 'k', 'f', 'a'], ['v', 'q', 'l', 'g', 'b'], ['w', 'r', 'm', 'h', 'c'], ['x', 's', 'n', 'i', 'd'], ['y', 't', 'o', 'j', 'e']]
 )
-test()
+test_rotate_matrix()
