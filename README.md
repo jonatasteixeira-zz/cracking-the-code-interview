@@ -7,7 +7,6 @@ Detailed explanations to the coding interview questions in CTCI. The solutions a
 ## Arrays and Strings
 |Problem Number | Problem Name | Status|
 |--- | --- | --- |
-
 | 1.1 | Is Unique | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.1_is_unique.py) |
 | 1.2 | Check Permutation | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.2_is_permutation.py) |
 | 1.3 | URLify | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/blob/master/1-arrays-and-strings/1.3_urlify.py) |
