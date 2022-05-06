@@ -20,23 +20,23 @@ Detailed explanations to the coding interview questions in CTCI. The solutions a
 ## Linked Lists
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 2.1 | Remove Dups | [Read Solution ✅]        (cracking-the-coding-interview/linked-lists/remove-duplicates) |
-| 2.2 | Return Kth to Last | [Read Solution ✅] (cracking-the-coding-interview/linked-lists/return-kth-to-last) |
-| 2.3 | Delete Middle Node | [Read Solution ✅] (cracking-the-coding-interview/linked-lists/delete-middle-node) |
-| 2.4 | Partition | [Read Solution ✅]          (cracking-the-coding-interview/linked-lists/partition) |
-| 2.5 | Sum List | [Read Solution ✅]           (cracking-the-coding-interview/linked-lists/sum-list) |
-| 2.6 | Palindrome | [Read Solution ✅]         (cracking-the-coding-interview/linked-lists/palindrome) |
-| 2.7 | Intersection | [Read Solution ✅]       (cracking-the-coding-interview/linked-lists/intersection) |
-| 2.8 | Loop Detection | [Read Solution ✅]     (cracking-the-coding-interview/linked-lists/loop-detection) |
+| 2.1 | Remove Dups | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/2.1_remove_dups.py) |
+| 2.2 | Return Kth to Last | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/2.2_return_kth_to_last.py) |
+| 2.3 | Delete Middle Node | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/2.3_delete_middle_node.py) |
+| 2.4 | Partition | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/2.4_partition.py) |
+| 2.5 | Sum List | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/2.5_sum_list.py) |
+| 2.6 | Palindrome | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/2.6_palindrome.py) |
+| 2.7 | Intersection | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/2.7_intersection.py) |
+| 2.8 | Loop Detection | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/2.8_loop_detection.py) |
 
 ## Stacks and Queues
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 3.1 | Three In One | ❌ |
-| 3.2 | Stack Min | ❌ |
-| 3.3 | Stack of Plates | ❌ |
-| 3.4 | Queue via Stacks | ❌ |
+| 3.1 | Three In One | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/3.1_three_in_one.py) |
+| 3.2 | Stack Min | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/3.2_stack_min.py) |
+| 3.3 | Stack of Plates | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/3.3_stack_of_plates.py) |
+| 3.4 | Queue via Stacks | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/2-linked-lists/linked-lists/3.4_queue_via_stacks.py) |
 | 3.5 | Sort Stack | ❌ |
 | 3.6 | Animal Shelter | ❌ |
 
