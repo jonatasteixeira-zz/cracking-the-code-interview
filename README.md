@@ -37,14 +37,14 @@ Detailed explanations to the coding interview questions in CTCI. The solutions a
 | 3.2 | Stack Min | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/3-stacks-and-queues/3.2_stack_min.py) |
 | 3.3 | Stack of Plates | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/3-stacks-and-queues/3.3_stack_of_plates.py) |
 | 3.4 | Queue via Stacks | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/3-stacks-and-queues/3.4_queue_via_stacks.py) |
-| 3.5 | Sort Stack | ❌ |
-| 3.6 | Animal Shelter | ❌ |
+| 3.5 | Sort Stack | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/3-stacks-and-queues/3.5_sort_stack.py) |
+| 3.6 | Animal Shelter | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/3-stacks-and-queues/3.4_animal_shelter.py) |
 
 ## Trees and Graphs
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 4.1 | Route Between Nodes | ❌ |
+| 4.1 | Route Between Nodes | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.1_route_between_nodes.py) |
 | 4.2 | Minimal Tree | ❌ |
 | 4.3 | List of Depths | ❌ |
 | 4.4 | Check Balanced | ❌ |
