@@ -44,6 +44,24 @@ class Graph():
                     stack.append(neighbor)
         return False
 
+    def bfs(self, node, goal):
+        if node == None:
+            return False
+
+        queue  = [node]
+        visited = {}
+
+        while len(queue) > 0:
+            node = queue.pop(0)
+            visited[node] = True
+            if node == goal:
+                return node
+            for neighbor in self.graph[node]:
+                if neighbor not in visited:
+                    queue.append(neighbor)
+        return False
+
+
     def minimum_path(self, node1, node2):
         distances = {node: [None, 999999] for node in range(len(self.graph))}
 
@@ -76,7 +94,8 @@ class Graph():
             visited.append(pivot)
 
     def has_path(self, node1, node2):
-        return self.dfs(node1, node2)
+        #return self.dfs(node1, node2)
+        return self.bfs(node1, node2)
 
     def __str__(self):
         res = ""

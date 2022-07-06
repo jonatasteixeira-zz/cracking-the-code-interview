@@ -106,9 +106,9 @@ def test():
 
     print(q)
     for i in range(10):
-        print(q.dequeueCat()).startswith("Cat"))
+        print(q.dequeueCat()).startswith("Cat")
     for i in range(10):
-        print(q.dequeueDog()).startswith("Dog"))
+        print(q.dequeueDog()).startswith("Dog")
 
 
 test()
