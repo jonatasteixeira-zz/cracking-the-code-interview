@@ -45,11 +45,11 @@ Detailed explanations to the coding interview questions in CTCI. The solutions a
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
 | 4.1 | Route Between Nodes | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.1_route_between_nodes.py) |
-| 4.2 | Minimal Tree | ❌ |
-| 4.3 | List of Depths | ❌ |
+| 4.2 | Minimal Tree | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.2_minimal_tree.py)  |
+| 4.3 | List of Depths | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.3_list_of_depths.py)  |
 | 4.4 | Check Balanced | ❌ |
-| 4.5 | Validate BST |  ❌ |
-| 4.6 | Successor | ❌ |
+| 4.5 | Validate BST |  [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.5_validate_bst.py)  |
+| 4.6 | Successor | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.6_sucessor.py)  |
 | 4.7 | Build Order | ❌ |
 | 4.8 | First Common Ancestor | ❌ |
 | 4.9 | BST Sequence | ❌ |

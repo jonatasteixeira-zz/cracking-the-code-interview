@@ -36,6 +36,26 @@ class Node:
                 root = root.left
         return prev
     
+    def is_balanced(self):
+        def height(node):
+            if node == None:
+                return 0
+            
+            left = height(node.left)
+            if left == -1:
+                return -1
+            
+            right = height(node.right)
+            if right == -1:
+                return -1
+            
+            if abs(left - right) > 1:
+                return -1
+            
+            return max(left, right) + 1
+        return (height(self) != -1)
+
+
     def __str__(self):
         def aux(node):
             if node == None:
