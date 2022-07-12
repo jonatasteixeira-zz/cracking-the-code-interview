@@ -47,7 +47,7 @@ Detailed explanations to the coding interview questions in CTCI. The solutions a
 | 4.1 | Route Between Nodes | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.1_route_between_nodes.py) |
 | 4.2 | Minimal Tree | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.2_minimal_tree.py)  |
 | 4.3 | List of Depths | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.3_list_of_depths.py)  |
-| 4.4 | Check Balanced | ❌ |
+| 4.4 | Check Balanced | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.4_check_balanced.py)  |
 | 4.5 | Validate BST |  [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.5_validate_bst.py)  |
 | 4.6 | Successor | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/4-trees-and-graphs/4.6_sucessor.py)  |
 | 4.7 | Build Order | ❌ |
@@ -61,14 +61,28 @@ Detailed explanations to the coding interview questions in CTCI. The solutions a
 
 | Problem Number | Problem Name | Status |
 | --- | --- | --- |
-| 5.1 | Insertion | ❌ |
-| 5.2 | Binary to String | ❌ |
-| 5.3 | Flip Bit to Win | ❌ |
-| 5.4 | Next Number | ❌ |
-| 5.5 | Debugger | ❌ |
-| 5.6 | Conversion | ❌ |
-| 5.7 | Pairwise Swap | ❌ |
-| 5.8 | Draw Line | ❌ |
+| 5.1 | Insertion | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/5-bit-manipulation/5.1_inserction.py)  |
+| 5.2 | Binary to String | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/5-bit-manipulation/5.2_binary_to_string.py)  |
+| 5.3 | Flip Bit to Win | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/5-bit-manipulation/5.3_flip_bit_to_win.py)  |
+| 5.4 | Next Number | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/5-bit-manipulation/5.4_next_number.py)  |
+| 5.5 | Debugger | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/5-bit-manipulation/5.5_debugger.py)  |
+| 5.6 | Conversion | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/5-bit-manipulation/5.6_conversion.py)  |
+| 5.7 | Pairwise Swap | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/5-bit-manipulation/5.7_pairwise_swap.py)  |
+| 5.8 | Draw Line | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/5-bit-manipulation/5.8_draw_line.py)  |
+
+## Math and Logical Puzzles
+
+| Problem Number | Problem Name | Status |
+| --- | --- | --- |
+| 6.1 | The Heavy Pill | [Read Solution ✅](https://github.com/jonatasteixeira/cracking-the-code-interview/tree/master/6-math-and-logic-puzzles/6.1_the_heavy_pill.py)  |
+| 6.2 |  | ❌ |
+| 6.3 |  | ❌ |
+| 6.4 |  | ❌ |
+| 6.5 |  | ❌ |
+| 6.6 |  | ❌ |
+| 6.7 |  | ❌ |
+| 6.8 |  | ❌ |
+| 6.9 |  | ❌ |
 
 ## Object Oriented Design
 
